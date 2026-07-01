@@ -1,0 +1,477 @@
+{
+  "news": [
+    {
+      "title": "Приказ о зачислении на аспирантуру",
+      "date": "29.08.25",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/prikaz-o-zachislenii-na-aspiranturu/"
+    },
+    {
+      "title": "Приказ о зачислении на платные места",
+      "date": "29.08.25",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/prikaz-o-zachislenii-na-platnye-mesta/"
+    },
+    {
+      "title": "Абитуриенты познакомились с факультетами МТУСИ на дне открытых дверей",
+      "date": "21.10.25",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/abiturienty-poznakomilis-s-fakultetami-mtusi-na-dne-otkrytykh-dverey/"
+    },
+    {
+      "title": "В МТУСИ состоялся День открытых дверей",
+      "date": "20.04.26",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/v-mtusi-sostoyalsya-den-otkrytykh-dverey/"
+    },
+    {
+      "title": "Организационные совещания в ЦИО для первокурсников",
+      "date": "16.09.25",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/organizatsionnye-soveshchaniya-v-tsio-dlya-pervokursnikov/"
+    },
+    {
+      "title": "День открытых дверей в МТУСИ — как это было",
+      "date": "14.03.26",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/den-otkrytykh-dverey-v-mtusi-kak-eto-bylo-/"
+    },
+    {
+      "title": "День открытых дверей в МТУСИ",
+      "date": "12.05.26",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/den-otkrytykh-dverey-v-mtusi_160526/"
+    },
+    {
+      "title": "2-ой этап соревнования «Битва роботов»",
+      "date": "10.10.25",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/2-oy-etap-sorevnovaniya-bitva-robotov/"
+    },
+    {
+      "title": "Успех факультета ИТ!",
+      "date": "09.04.26",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/uspekh-fakulteta-it/"
+    },
+    {
+      "title": "МТУСИ на образовательной выставке: итоги и планы",
+      "date": "05.11.25",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/mtusi-na-obrazovatelnoy-vystavke-itogi-i-plany/"
+    },
+    {
+      "title": "Центр довузовской подготовки МТУСИ открывает запись на интенсивные курсы подготовки к вступительным ",
+      "date": "04.02.26",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/tsentr-dovuzovskoy-podgotovki-mtusi-otkryvaet-zapis-na-intensivnye-kursy-podgotovki-k-vstupitelnym-i/"
+    },
+    {
+      "title": "Торжественное мероприятие «День Знаний»",
+      "date": "01.09.25",
+      "text": "",
+      "link": "https://abitur.mtuci.ru/news/torzhestvennoe-meropriyatie-den-znaniy/"
+    },
+    {
+      "title": "#День открытых дверей",
+      "date": "",
+      "text": "",
+      "link": "https://abitur.mtuci.ru//news/?tags[]=148"
+    }
+  ],
+  "programs": [
+    {
+      "code": "01.03.02",
+      "name": "Прикладная математика и программирование",
+      "level": "Бакалавриат",
+      "passing_score": "259",
+      "description": "Проходной балл 2025: 259"
+    },
+    {
+      "code": "02.03.01",
+      "name": "Инженерия данных",
+      "level": "Бакалавриат",
+      "passing_score": "224",
+      "description": "Проходной балл 2025: 224"
+    },
+    {
+      "code": "09.03.01",
+      "name": "ТОП-ИИ: Инженерия систем искусственного интеллекта",
+      "level": "Бакалавриат",
+      "passing_score": "288",
+      "description": "Проходной балл 2025: 288"
+    },
+    {
+      "code": "09.03.02",
+      "name": "Инженерия DevSecOps",
+      "level": "Бакалавриат",
+      "passing_score": "270",
+      "description": "Проходной балл 2025: 270"
+    },
+    {
+      "code": "09.03.03",
+      "name": "Прикладные информационные системы",
+      "level": "Бакалавриат",
+      "passing_score": "270",
+      "description": "Проходной балл 2025: 270"
+    },
+    {
+      "code": "09.03.04",
+      "name": "Разработка и сопровождение программного обеспечения",
+      "level": "Бакалавриат",
+      "passing_score": "278",
+      "description": "Проходной балл 2025: 278"
+    },
+    {
+      "code": "10.03.01",
+      "name": "Безопасность компьютерных систем (по отрасли или в сфере профессиональной деятельности)",
+      "level": "Бакалавриат",
+      "passing_score": "278",
+      "description": "Проходной балл 2025: 278"
+    },
+    {
+      "code": "10.03.01",
+      "name": "Безопасность автоматизированных систем (по отрасли или в сфере профессиональной деятельности)",
+      "level": "Бакалавриат",
+      "passing_score": "283",
+      "description": "Проходной балл 2025: 283"
+    },
+    {
+      "code": "11.03.01",
+      "name": "Радиотехника и аудиовизуальные технологии",
+      "level": "Бакалавриат",
+      "passing_score": "218",
+      "description": "Проходной балл 2025: 218"
+    },
+    {
+      "code": "11.03.02",
+      "name": "Беспроводная связь",
+      "level": "Бакалавриат",
+      "passing_score": "206",
+      "description": "Проходной балл 2025: 206"
+    },
+    {
+      "code": "11.03.02",
+      "name": "Сетевая инженерия телекоммуникаций",
+      "level": "Бакалавриат",
+      "passing_score": "204",
+      "description": "Проходной балл 2025: 204"
+    },
+    {
+      "code": "15.03.04",
+      "name": "Промышленный интернет вещей и робототехника",
+      "level": "Бакалавриат",
+      "passing_score": "240",
+      "description": "Проходной балл 2025: 240"
+    },
+    {
+      "code": "27.03.04",
+      "name": "Разработка и программирование автономных робототехнических систем",
+      "level": "Бакалавриат",
+      "passing_score": "255",
+      "description": "Проходной балл 2025: 255"
+    },
+    {
+      "code": "10.05.02",
+      "name": "Управление безопасностью телекоммуникационных систем и сетей",
+      "level": "Бакалавриат",
+      "passing_score": "256",
+      "description": "Проходной балл 2025: 256"
+    },
+    {
+      "code": "38.03.01",
+      "name": "Бизнес-аналитика и технологии цифровой экономики",
+      "level": "Бакалавриат",
+      "passing_score": "232",
+      "description": "Проходной балл 2025: 232"
+    },
+    {
+      "code": "38.03.05",
+      "name": "Дата-аналитика и системы больших данных",
+      "level": "Бакалавриат",
+      "passing_score": "229",
+      "description": "Проходной балл 2025: 229"
+    },
+    {
+      "code": "42.03.01",
+      "name": "Цифровые технологии рекламы и связи с общественностью",
+      "level": "Бакалавриат",
+      "passing_score": "229",
+      "description": "Проходной балл 2025: 229"
+    },
+    {
+      "code": "09.03.01",
+      "name": "Организация и технологии защиты информации",
+      "level": "Бакалавриат",
+      "passing_score": "281",
+      "description": "Проходной балл 2025: 281"
+    },
+    {
+      "code": "09.03.02",
+      "name": "Инженерия DevSecOps",
+      "level": "Бакалавриат",
+      "passing_score": "298",
+      "description": "Проходной балл 2025: 298"
+    },
+    {
+      "code": "11.03.02",
+      "name": "Сетевая инженерия телекоммуникаций",
+      "level": "Бакалавриат",
+      "passing_score": "282",
+      "description": "Проходной балл 2025: 282"
+    },
+    {
+      "code": "15.03.04",
+      "name": "Промышленный интернет вещей и робототехника",
+      "level": "Бакалавриат",
+      "passing_score": "260",
+      "description": "Проходной балл 2025: 260"
+    },
+    {
+      "code": "27.03.04",
+      "name": "Разработка и программирование автономных робототехнических систем",
+      "level": "Бакалавриат",
+      "passing_score": "258",
+      "description": "Проходной балл 2025: 258"
+    },
+    {
+      "code": "09.04.01",
+      "name": "Программная защита информации",
+      "level": "Магистратура",
+      "passing_score": "85",
+      "description": "Проходной балл: 85"
+    },
+    {
+      "code": "09.04.01",
+      "name": "Технологии и системы искусственного интеллекта",
+      "level": "Магистратура",
+      "passing_score": "90",
+      "description": "Проходной балл: 90"
+    },
+    {
+      "code": "09.04.02",
+      "name": "Распределенные информационные системы и приложения",
+      "level": "Магистратура",
+      "passing_score": "78",
+      "description": "Проходной балл: 78"
+    },
+    {
+      "code": "09.04.02",
+      "name": "Прикладной искусственный интеллект в медицине",
+      "level": "Магистратура",
+      "passing_score": "95",
+      "description": "Проходной балл: 95"
+    },
+    {
+      "code": "09.04.04",
+      "name": "Мультиагентные системы",
+      "level": "Магистратура",
+      "passing_score": "-",
+      "description": "Проходной балл: -"
+    },
+    {
+      "code": "10.04.01",
+      "name": "Интеллектуальные технологии безопасности компьютерных систем",
+      "level": "Магистратура",
+      "passing_score": "108",
+      "description": "Проходной балл: 108"
+    },
+    {
+      "code": "10.04.01",
+      "name": "Доверенные программно-аппаратные средства для обеспечения безопасности КИИ",
+      "level": "Магистратура",
+      "passing_score": "-",
+      "description": "Проходной балл: -"
+    },
+    {
+      "code": "11.04.01",
+      "name": "Системы и устройства обработки медиаконтента",
+      "level": "Магистратура",
+      "passing_score": "88",
+      "description": "Проходной балл: 88"
+    },
+    {
+      "code": "11.04.01",
+      "name": "Программные и аппаратные средства беспроводных систем",
+      "level": "Магистратура",
+      "passing_score": "91",
+      "description": "Проходной балл: 91"
+    },
+    {
+      "code": "11.04.02",
+      "name": "Системы беспроводной связи",
+      "level": "Магистратура",
+      "passing_score": "80",
+      "description": "Проходной балл: 80"
+    },
+    {
+      "code": "11.04.02",
+      "name": "Мультисервисные инфокоммуникационные технологии",
+      "level": "Магистратура",
+      "passing_score": "94",
+      "description": "Проходной балл: 94"
+    },
+    {
+      "code": "11.04.02",
+      "name": "Квантовые коммуникации",
+      "level": "Магистратура",
+      "passing_score": "83",
+      "description": "Проходной балл: 83"
+    },
+    {
+      "code": "15.04.04",
+      "name": "Системы искусственного интеллекта промышленного интернета вещей",
+      "level": "Магистратура",
+      "passing_score": "85",
+      "description": "Проходной балл: 85"
+    },
+    {
+      "code": "27.04.04",
+      "name": "Киберфизические системы и интернет вещей",
+      "level": "Магистратура",
+      "passing_score": "72",
+      "description": "Проходной балл: 72"
+    },
+    {
+      "code": "38.04.01",
+      "name": "Цифровая трансформация бизнеса",
+      "level": "Магистратура",
+      "passing_score": "93",
+      "description": "Проходной балл: 93"
+    },
+    {
+      "code": "38.04.05",
+      "name": "Цифровая архитектура бизнеса в экономике данных",
+      "level": "Магистратура",
+      "passing_score": "95",
+      "description": "Проходной балл: 95"
+    },
+    {
+      "code": "38.04.05",
+      "name": "Master of Business Analytics",
+      "level": "Магистратура",
+      "passing_score": "95",
+      "description": "Проходной балл: 95"
+    },
+    {
+      "code": "09.04.01",
+      "name": "Архитектура информационных систем",
+      "level": "Магистратура",
+      "passing_score": "72",
+      "description": "Проходной балл: 72"
+    },
+    {
+      "code": "38.04.01",
+      "name": "Цифровая трансформация бизнеса",
+      "level": "Магистратура",
+      "passing_score": "101",
+      "description": "Проходной балл: 101"
+    },
+    {
+      "code": "09.04.01",
+      "name": "Технологии и системы искусственного интеллекта",
+      "level": "Магистратура",
+      "passing_score": "-",
+      "description": "Проходной балл: -"
+    },
+    {
+      "code": "11.04.02",
+      "name": "Сети, системы и устройства телекоммуникации",
+      "level": "Магистратура",
+      "passing_score": "133",
+      "description": "Проходной балл: 133"
+    },
+    {
+      "code": "11.04.02",
+      "name": "Технологии беспроводной связи",
+      "level": "Магистратура",
+      "passing_score": "-",
+      "description": "Проходной балл: -"
+    },
+    {
+      "code": "15.04.04",
+      "name": "Системы искусственного интеллекта промышленного интернета вещей",
+      "level": "Магистратура",
+      "passing_score": "-",
+      "description": "Проходной балл: -"
+    },
+    {
+      "code": "27.04.04",
+      "name": "Безопасность технических систем",
+      "level": "Магистратура",
+      "passing_score": "95",
+      "description": "Проходной балл: 95"
+    },
+    {
+      "code": "1.2.1 Искусственный интеллект и машинное обучение",
+      "name": "-",
+      "level": "Аспирантура",
+      "group": "1.2 - Компьютерные науки и информатика» есть специальности",
+      "description": "Научная группа: 1.2 - Компьютерные науки и информатика» есть специальности"
+    },
+    {
+      "code": "2.2.13 - Радиотехника, в том числе системы и устройства телевидения",
+      "name": "96",
+      "level": "Аспирантура",
+      "group": "2.2 - Электроника, фотоника, приборостроение и связь",
+      "description": "Научная группа: 2.2 - Электроника, фотоника, приборостроение и связь"
+    },
+    {
+      "code": "",
+      "name": "2.2.15 - Системы, сети и устройства телекоммуникаций",
+      "level": "Аспирантура",
+      "group": "",
+      "description": "Научная группа: "
+    },
+    {
+      "code": "2.3.1 - Системный анализ, управление и обработка информации, статистика",
+      "name": "70",
+      "level": "Аспирантура",
+      "group": "2.3 - Информационные технологии и телекоммуникации",
+      "description": "Научная группа: 2.3 - Информационные технологии и телекоммуникации"
+    },
+    {
+      "code": "",
+      "name": "2.3.6 - Методы и системы защиты информации, информационная безопасность",
+      "level": "Аспирантура",
+      "group": "",
+      "description": "Научная группа: "
+    },
+    {
+      "code": "",
+      "name": "2.3.8 - Информатика и информационные процессы",
+      "level": "Аспирантура",
+      "group": "",
+      "description": "Научная группа: "
+    },
+    {
+      "code": "5.2.3 - Региональная и отраслевая экономика",
+      "name": "122",
+      "level": "Аспирантура",
+      "group": "5.2 - Экономика",
+      "description": "Научная группа: 5.2 - Экономика"
+    },
+    {
+      "code": "",
+      "name": "5.2.6 - Менеджмент",
+      "level": "Аспирантура",
+      "group": "",
+      "description": "Научная группа: "
+    }
+  ],
+  "documents": [
+    "Правила приема на бакалавриат/специалитет 2026 г. - https://abitur.mtuci.ru/upload/iblock/759/jv2s3cm89x53rk9imd5ge6f466jpko90/2026_PP_BS_s_izmeneniyami_ot_05.05.2026_g..pdf",
+    "Правила оказания платных образовательных услуг - https://abitur.mtuci.ru/upload/iblock/ce1/qqgtkzkug3y335av21gaww88dhh3fvru/Pravila_okazaniya_platnykh_obrazovatelnykh_uslug.pdf",
+    "Правила приема на бакалавриат/специалитет 2026 г. - https://abitur.mtuci.ru/upload/iblock/759/jv2s3cm89x53rk9imd5ge6f466jpko90/2026_PP_BS_s_izmeneniyami_ot_05.05.2026_g..pdf",
+    "Правила оказания платных образовательных услуг - https://abitur.mtuci.ru/upload/iblock/ce1/qqgtkzkug3y335av21gaww88dhh3fvru/Pravila_okazaniya_platnykh_obrazovatelnykh_uslug.pdf",
+    "Правила приема в магистратуру 2026 г. - https://abitur.mtuci.ru/upload/iblock/4e1/aq8po9qxiph307vwwwc00958nnwa4d85/2026_PP_MAG-_1_.pdf",
+    "Правила оказания платных образовательных услуг - https://abitur.mtuci.ru/upload/iblock/ce1/qqgtkzkug3y335av21gaww88dhh3fvru/Pravila_okazaniya_platnykh_obrazovatelnykh_uslug.pdf",
+    "Правила приема в магистратуру 2026 г. - https://abitur.mtuci.ru/upload/iblock/4e1/aq8po9qxiph307vwwwc00958nnwa4d85/2026_PP_MAG-_1_.pdf",
+    "Правила оказания платных образовательных услуг - https://abitur.mtuci.ru/upload/iblock/ce1/qqgtkzkug3y335av21gaww88dhh3fvru/Pravila_okazaniya_platnykh_obrazovatelnykh_uslug.pdf",
+    "Правила приема в аспирантуру 2026 г. - https://abitur.mtuci.ru/upload/iblock/975/mmdjjq652hxqj6xte3lrzo6tsu4hxmm2/2026_PP_ASP.pdf",
+    "Правила оказания платных образовательных услуг - https://abitur.mtuci.ru/upload/iblock/ce1/qqgtkzkug3y335av21gaww88dhh3fvru/Pravila_okazaniya_platnykh_obrazovatelnykh_uslug.pdf",
+    "Правила приема в аспирантуру 2026 г. - https://abitur.mtuci.ru/upload/iblock/975/mmdjjq652hxqj6xte3lrzo6tsu4hxmm2/2026_PP_ASP.pdf",
+    "Правила оказания платных образовательных услуг - https://abitur.mtuci.ru/upload/iblock/ce1/qqgtkzkug3y335av21gaww88dhh3fvru/Pravila_okazaniya_platnykh_obrazovatelnykh_uslug.pdf"
+  ],
+  "last_update": "2026-05-13T14:09:08.868120"
+}

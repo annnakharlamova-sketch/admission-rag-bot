@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+
+# Logs
+logs/
+
+# ChromaDB
+rag_db/
+
+# OCR output
+ocr_result.txt
+
+# OS
+.DS_Store
+Thumbs.db
