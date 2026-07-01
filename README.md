@@ -1,4 +1,4 @@
-# MTUCI Admission Assistant
+# Admission Assistant
 
 Интеллектуальный помощник приёмной комиссии МТУСИ, реализованный на основе технологии Retrieval-Augmented Generation (RAG).
 
